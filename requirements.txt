@@ -19,7 +19,7 @@ coreschema==0.0.4
 coverage==4.4.2
 Django==1.11.11
 django-cache-fallback==0.2.1
-django-celery-results==1.0.1
+django-celery-results==2.4.0
 django-cors-headers==2.1.0
 django-rest-swagger==2.1.2
 django-sslserver==0.20
